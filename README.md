@@ -18,7 +18,8 @@ attrition rates, salary distribution, and other key HR metrics, enabling HR prof
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/b32522c5-41fd-4a15-8131-51ac1014e109)
+![Screenshot 2025-01-12 224708](https://github.com/user-attachments/assets/2f66d34e-40e2-4371-8652-8667cbc5a207)
+
 
 ### Insights
 
